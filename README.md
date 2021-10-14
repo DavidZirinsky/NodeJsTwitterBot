@@ -14,3 +14,6 @@ This will retweet, favorite, and comment on a user's tweet.
 npm i
 npm start
 ```
+
+## Where you can go from here
+To make this more realistic, each twitter bot instance could comment with a different message. Each bot could ask have a randomized delay before performing the various actions to make the activity feel more organic. 
