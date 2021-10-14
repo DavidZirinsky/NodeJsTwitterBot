@@ -22,7 +22,7 @@ userID = '123456789'  // twitter user id of who to bless with your bot activity
 for(var i=0; i<credArray.length; i++){
 	var cp = require('child_process');
 	var child = cp.fork('./child');
-  credArray[i].userID = userID
+        credArray[i].userID = userID
 	child.send(credArray[i]);
 }
 
