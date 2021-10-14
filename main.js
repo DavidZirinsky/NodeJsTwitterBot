@@ -17,7 +17,7 @@ var credentials2= {
 var credArray= [];
 credArray[0]= credentials;
 credArray[1]= credentials2;
-userID = '1443343230268026880' // twitter user id of who to bless with your bot activity
+userID = '1443343230268026880'  // twitter user id of who to bless with your bot activity
 
 for(var i=0; i<credArray.length; i++){
 	var cp = require('child_process');
