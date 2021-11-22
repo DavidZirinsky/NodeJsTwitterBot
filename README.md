@@ -16,4 +16,4 @@ npm start
 ```
 
 ## Where you can go from here
-To make this more realistic, each twitter bot instance could comment with a different message. Each bot could ask have a randomized delay before performing the various actions to make the activity feel more organic. 
+To make this more realistic, each twitter bot instance could comment with a different message. Each bot could also have a randomized delay before performing the various actions to make the activity feel more organic. 
